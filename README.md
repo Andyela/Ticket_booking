@@ -15,8 +15,8 @@ Dependencies
 
 Backend Dependencies:
 
-Docopt - This is a Pythonic package that allows creating the command-line interface for eventbuzz.
-SQlite - This is a light-weight relational database that eventbuzz uses to store event data.
+Docopt - This is a Pythonic package that allows creating the command-line interface for eticket.
+SQlite - This is a light-weight relational database that eticket uses to store event data.
 SQL Alchemy - This is a python SQL toolkit and Object relational mapper.
 smtplib - This is a python library that handles sending of emails via python modules.
 python-crontab - This is a python library that enables scheduling of various tasks.
